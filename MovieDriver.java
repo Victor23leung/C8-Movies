@@ -35,6 +35,7 @@ public class MovieDriver
        ArrayList<Movie> highestRated = movieList.findHighestRatedByStudio();
        for (int i=0 ; i<highestRated.size() ; i++)
            System.out.println(highestRated.get(i));
+           
        
        
 
